@@ -4,7 +4,7 @@
 # Fast! Just FFprobe + silence detection. No heavy model downloads.
 # Returns: duration, silence gaps, speech ratio, audio metadata.
 # ============================================================================
-name: Audio Probe
+name: ⚡ Audio Probe
 on:
   workflow_dispatch:
     inputs:
